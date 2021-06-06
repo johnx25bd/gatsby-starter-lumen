@@ -49,14 +49,21 @@ const createPages = async ({ graphql, actions }) => {
 
   const { edges } = result.data.allMarkdownRemark;
 
+  createPage({
+    path: '/',
+    component: path.resolve('./src/templates/index-template.js')
+  })
+
   _.each(edges, (edge) => {
     if (_.get(edge, 'node.frontmatter.template') === 'page') {
+      // if a slug matches, rewrite its path to "/"
+      const slugToUse = edge.node.fields.slug === "/pages/" ? "/" : edge.node.fields.slug;
       createPage({
-        path: edge.node.fields.slug,
+        path: slugToUse,
         component: path.resolve('./src/templates/page-template.js'),
         context: { slug: edge.node.fields.slug }
       });
-    } else if (_.get(edge, 'node.frontmatter.template') === 'post') {
+  } else if (_.get(edge, 'node.frontmatter.template') === 'post') {
       createPage({
         path: edge.node.fields.slug,
         component: path.resolve('./src/templates/post-template.js'),
