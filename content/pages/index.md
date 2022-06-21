@@ -4,13 +4,17 @@ template: "page"
 socialImage: "/media/image-2.jpg"
 ---
 
-Hello - I'm John. I am helping build a brighter future for humanity. My work is focused on the application of spatial data technologies within the consensus economy. I am a technical architect, educator, connector, writer, and occasional developer / data scientist.
+Hello - I'm John. I am helping build a brighter future for humanity. My work is focused on the application of spatial data technologies within the consensus economy. I work with people and technology to coordinate our response to the climate crisis. I am a technical architect, educator, connector, writer, and occasional developer / data scientist.
 
-Currently, I am working to help the blockchain community develop in a thoughtful and inclusive way as a Steward with the [KERNEL Fellowship](https://kernel.community/en/), a curated community of Web3 brilliance. I support the brightest minds in their efforts to build the user-controlled Internet. 
+Currently, I am working to help scale carbon markets so we can unlock climate action with [Toucan Protocol](https://toucan.earth/). We are building better carbon market infrastructure using blockchains. 
 
-I am also actively working on [Astral](https://astral.global/), where I am Architect. Astral is building tools to support the creation of the location-based decentralized web. We believe that spatial and location data will unlock some incredible applications in Web3, and are early in the process of researching and developing open tools and standards to help this come to life. 
+I am also actively working on [Astral](https://astral.global/). Astral is building tools to support the location-based decentralized web. We believe that spatial and location data will unlock some incredible applications in Web3 — especially in ReFi. For the past few years we've been researching and developing open tools and standards to help this come to life. 
+
+I've been helping the Web3 community develop in a thoughtful and inclusive way with the [KERNEL Fellowship](https://kernel.community/en/), a curated community of Web3 brilliance. I support the brightest minds in their efforts to build the user-controlled Internet. I've been a fellow, guide, steward and, most recently, co-led the [Regeneration Guild](https://www.kernel.community/en/build/regeneration/).
+
 
 Highlights of my career include:
+- co-founding Toucan Protocol, a leading project working towards a regenerative economy, where care for the Earth is woven into our financial fabric
 - helping the UK's location data community as [Developer Advocate with Ordnance Survey](https://www.ordnancesurvey.co.uk/newsroom/blog/developer-advocate-john-hoopes), the UK's national mapping agency
 - educating a community of university and masters students on Web3 as Technical Director at [London Blockchain Labs](https://londonblockchainlabs.com/)
 - earning a distinction for a MSc in Spatial Data Science and Visualisation at UCL's [Centre for Advanced Spatial Analysis](https://www.ucl.ac.uk/bartlett/casa/)
